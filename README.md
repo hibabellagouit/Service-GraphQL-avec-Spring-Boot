@@ -101,8 +101,6 @@ type Mutation {
 <img width="1366" height="728" alt="GraphiQL - Google Chrome 11_01_2026 17_37_23" src="https://github.com/user-attachments/assets/a31d5bf7-d48f-49a4-8ffe-7056698b1dea" />
 <img width="1366" height="728" alt="GraphiQL - Google Chrome 11_01_2026 17_37_45" src="https://github.com/user-attachments/assets/d7413993-17c7-4a07-87cc-54ab5b2360f7" />
 <img width="1366" height="728" alt="GraphiQL - Google Chrome 11_01_2026 17_40_50 (1)" src="https://github.com/user-attachments/assets/f5015ae9-633b-4c4f-8589-815d72089134" />
-<img width="1366" height="728" alt="GraphiQL - Google Chrome 11_01_2026 17_40_50 (2)" src="https://github.com/user-attachments/assets/2fb35add-495c-4bdc-b24a-2b4d32b7a51c" />
-<img width="1366" height="728" alt="GraphiQL - Google Chrome 11_01_2026 17_40_50" src="https://github.com/user-attachments/assets/27577e40-7063-46f6-919f-e9257e6a86b9" />
 
 
 ## 🚀 Démarrage Rapide
